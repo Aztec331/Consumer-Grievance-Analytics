@@ -1,0 +1,1001 @@
+Complaint ID,Customer ID,Product/Service,Complaint Category,Date Filed,Date Resolved,Status,Resolution Time (Days)
+820407,28631,Insurance Plan,Delivery,2024-05-24,2024-06-11,Resolved,18.0
+262537,23083,Digital Scale,Product Quality,2024-06-30,2024-07-28,Resolved,28.0
+459273,52729,Digital Scale,Service,2024-05-10,2024-05-20,Resolved,10.0
+271580,63115,Personal Safe,Delivery,2023-10-26,,Unresolved,
+282178,17532,Fitness Tracker,Product Quality,2024-07-18,2024-08-16,Resolved,29.0
+608969,98598,Customer Support Service,Delivery,2023-11-12,2023-11-20,Resolved,8.0
+425538,86606,Cloud Storage,Product Quality,2024-02-07,2024-02-27,Resolved,20.0
+630128,19045,Fitness Tracker,Service,2024-08-12,,Unresolved,
+588941,18285,Digital Scale,Service,2024-08-24,2024-08-28,Resolved,4.0
+921215,73034,Insurance Plan,Billing,2023-12-05,2024-01-03,Resolved,29.0
+655434,96496,Home Security System,Product Quality,2024-02-19,2024-03-10,Resolved,20.0
+776011,54527,Home Security System,Delivery,2023-10-31,2023-11-09,Resolved,9.0
+226694,34562,Home Security System,Technical Support,2023-12-01,2023-12-11,Resolved,10.0
+704514,40651,Home Security System,Service,2024-02-20,,Unresolved,
+381559,54129,Personal Safe,Technical Support,2024-03-11,2024-03-23,Resolved,12.0
+866567,66699,Digital Scale,Technical Support,2023-12-26,2023-12-30,Resolved,4.0
+902524,55819,Digital Scale,Service,2024-07-02,2024-07-11,Resolved,9.0
+593413,85069,Home Security System,Billing,2023-12-31,,Unresolved,
+100216,73029,Weight Loss Program,Billing,2024-05-16,2024-05-23,Resolved,7.0
+807469,43859,Weight Loss Program,Delivery,2023-11-15,2023-12-05,Resolved,20.0
+640416,10972,Cloud Storage,Technical Support,2024-03-30,2024-04-14,Resolved,15.0
+300152,52757,Digital Scale,Service,2023-09-16,2023-10-03,Resolved,17.0
+307163,14924,Cloud Storage,Technical Support,2023-09-01,2023-09-27,Resolved,26.0
+763821,15817,Digital Scale,Product Quality,2024-05-27,,Unresolved,
+569103,74656,Weight Loss Program,Delivery,2024-03-28,2024-04-12,Resolved,15.0
+177124,38208,Home Security System,Delivery,2023-09-02,2023-09-29,Resolved,27.0
+178158,16647,Insurance Plan,Product Quality,2024-03-24,,Unresolved,
+807802,33971,Home Security System,Delivery,2024-01-07,,Unresolved,
+838416,18804,Home Security System,Service,2023-12-25,2024-01-09,Resolved,15.0
+945182,77685,Fitness Tracker,Product Quality,2023-11-15,2023-11-24,Resolved,9.0
+788707,21357,Drone Delivery Service,Technical Support,2023-11-13,2023-12-12,Resolved,29.0
+355701,47102,Home Security System,Product Quality,2024-04-25,2024-05-25,Resolved,30.0
+977109,99546,Mobile Banking App,Technical Support,2024-02-24,2024-03-10,Resolved,15.0
+417231,27411,Drone Delivery Service,Technical Support,2024-06-13,2024-06-19,Resolved,6.0
+941434,21281,Drone Delivery Service,Delivery,2024-03-31,2024-04-28,Resolved,28.0
+939442,57326,Cloud Storage,Delivery,2023-10-08,2023-10-27,Resolved,19.0
+204240,46312,Weight Loss Program,Technical Support,2024-08-04,,Unresolved,
+547957,56151,Home Security System,Product Quality,2023-10-25,2023-11-03,Resolved,9.0
+929717,50894,Drone Delivery Service,Service,2024-06-19,2024-07-05,Resolved,16.0
+829761,68556,Weight Loss Program,Billing,2023-09-23,,Unresolved,
+205113,41203,Insurance Plan,Billing,2024-04-21,2024-05-08,Resolved,17.0
+803752,77452,Drone Delivery Service,Delivery,2023-10-22,2023-11-10,Resolved,19.0
+306606,31514,Drone Delivery Service,Technical Support,2023-10-26,2023-11-16,Resolved,21.0
+656316,44208,Fitness Tracker,Delivery,2023-12-28,2024-01-10,Resolved,13.0
+924492,99060,Cloud Storage,Billing,2024-01-26,2024-01-29,Resolved,3.0
+458567,61418,Home Security System,Technical Support,2024-03-28,2024-04-16,Resolved,19.0
+101800,98150,Cloud Storage,Technical Support,2024-02-14,2024-02-15,Resolved,1.0
+221503,57392,Weight Loss Program,Billing,2023-10-14,2023-10-22,Resolved,8.0
+105883,20380,Mobile Banking App,Billing,2024-07-22,2024-08-08,Resolved,17.0
+567350,37042,Weight Loss Program,Technical Support,2024-08-08,2024-08-29,Resolved,21.0
+150874,22434,Digital Scale,Billing,2023-10-24,2023-11-18,Resolved,25.0
+316308,55683,Cloud Storage,Technical Support,2024-05-27,2024-06-13,Resolved,17.0
+875124,30516,Mobile Banking App,Delivery,2024-07-20,2024-07-28,Resolved,8.0
+220891,56192,Digital Scale,Service,2024-08-19,2024-09-09,Resolved,21.0
+581088,88636,Insurance Plan,Delivery,2023-12-30,2024-01-29,Resolved,30.0
+801190,37869,Personal Safe,Service,2023-08-31,2023-09-01,Resolved,1.0
+141883,86987,Cloud Storage,Delivery,2024-01-07,2024-01-08,Resolved,1.0
+683420,15977,Cloud Storage,Billing,2024-08-12,2024-08-29,Resolved,17.0
+535323,91655,Personal Safe,Product Quality,2024-06-01,2024-06-19,Resolved,18.0
+313860,41852,Digital Scale,Product Quality,2024-07-10,2024-07-19,Resolved,9.0
+437988,73520,Personal Safe,Product Quality,2024-04-22,2024-05-07,Resolved,15.0
+836401,40636,Drone Delivery Service,Product Quality,2024-02-23,2024-03-17,Resolved,23.0
+520057,17883,Cloud Storage,Delivery,2024-06-27,2024-07-19,Resolved,22.0
+368858,41248,Fitness Tracker,Billing,2023-10-09,2023-10-17,Resolved,8.0
+297788,81342,Insurance Plan,Product Quality,2023-11-13,2023-11-18,Resolved,5.0
+984296,12737,Home Security System,Product Quality,2024-04-21,2024-05-08,Resolved,17.0
+842019,75568,Mobile Banking App,Delivery,2023-12-16,2024-01-03,Resolved,18.0
+666979,38726,Mobile Banking App,Delivery,2023-10-07,2023-11-01,Resolved,25.0
+999443,99609,Insurance Plan,Service,2023-12-30,2023-12-31,Resolved,1.0
+360650,53544,Personal Safe,Delivery,2024-01-06,2024-01-10,Resolved,4.0
+484582,27014,Customer Support Service,Delivery,2024-06-18,2024-06-29,Resolved,11.0
+105044,28833,Digital Scale,Technical Support,2023-10-28,2023-11-08,Resolved,11.0
+458054,76407,Home Security System,Technical Support,2024-05-07,2024-05-30,Resolved,23.0
+408128,98642,Drone Delivery Service,Service,2024-08-06,2024-08-14,Resolved,8.0
+375995,21966,Fitness Tracker,Delivery,2024-05-28,2024-06-23,Resolved,26.0
+747731,36941,Customer Support Service,Delivery,2023-12-05,2023-12-10,Resolved,5.0
+249706,90417,Cloud Storage,Billing,2024-08-24,2024-09-09,Resolved,16.0
+398675,73541,Fitness Tracker,Service,2024-05-09,2024-06-04,Resolved,26.0
+530875,25814,Home Security System,Technical Support,2024-06-20,2024-06-21,Resolved,1.0
+455681,96786,Digital Scale,Service,2024-02-11,2024-03-06,Resolved,24.0
+550561,27234,Personal Safe,Billing,2024-08-23,,Unresolved,
+269023,92515,Home Security System,Technical Support,2023-10-15,2023-11-08,Resolved,24.0
+518119,89660,Mobile Banking App,Billing,2024-03-03,2024-03-05,Resolved,2.0
+234659,80216,Digital Scale,Technical Support,2023-11-07,2023-11-29,Resolved,22.0
+978007,97487,Home Security System,Technical Support,2024-07-14,,Unresolved,
+899697,17392,Digital Scale,Service,2024-01-18,,Unresolved,
+314641,70172,Insurance Plan,Billing,2024-02-24,2024-03-15,Resolved,20.0
+252701,19135,Cloud Storage,Technical Support,2023-12-07,2023-12-24,Resolved,17.0
+474337,81779,Insurance Plan,Technical Support,2023-09-07,2023-10-06,Resolved,29.0
+404704,75844,Customer Support Service,Service,2023-10-24,2023-11-23,Resolved,30.0
+570815,44223,Weight Loss Program,Delivery,2024-04-26,2024-05-23,Resolved,27.0
+276787,32227,Insurance Plan,Service,2024-08-15,2024-08-16,Resolved,1.0
+565196,88207,Weight Loss Program,Technical Support,2023-11-28,2023-12-28,Resolved,30.0
+761368,69805,Drone Delivery Service,Billing,2023-11-17,2023-12-12,Resolved,25.0
+870141,77655,Fitness Tracker,Billing,2024-08-28,2024-09-04,Resolved,7.0
+258872,65616,Fitness Tracker,Product Quality,2024-08-09,2024-09-03,Resolved,25.0
+771579,15935,Cloud Storage,Delivery,2023-11-01,2023-11-26,Resolved,25.0
+302840,99705,Personal Safe,Service,2024-01-07,2024-01-14,Resolved,7.0
+849467,76598,Cloud Storage,Delivery,2023-12-31,2024-01-12,Resolved,12.0
+674619,15567,Digital Scale,Technical Support,2023-11-13,2023-11-19,Resolved,6.0
+748078,29317,Digital Scale,Billing,2023-09-02,2023-09-13,Resolved,11.0
+870223,74667,Customer Support Service,Technical Support,2023-09-07,2023-09-11,Resolved,4.0
+476142,13290,Mobile Banking App,Billing,2024-03-10,2024-04-01,Resolved,22.0
+546868,61216,Mobile Banking App,Technical Support,2024-03-04,2024-03-23,Resolved,19.0
+660550,14220,Customer Support Service,Service,2023-10-29,,Unresolved,
+269234,91801,Home Security System,Product Quality,2024-08-21,2024-09-05,Resolved,15.0
+574858,20950,Weight Loss Program,Service,2023-11-21,2023-12-04,Resolved,13.0
+191464,38410,Fitness Tracker,Delivery,2024-03-03,2024-03-06,Resolved,3.0
+462822,58596,Mobile Banking App,Service,2024-05-13,2024-05-14,Resolved,1.0
+740893,27250,Digital Scale,Technical Support,2024-02-14,2024-02-29,Resolved,15.0
+518830,60578,Fitness Tracker,Delivery,2023-09-05,2023-09-11,Resolved,6.0
+901174,27287,Home Security System,Service,2024-04-19,2024-05-04,Resolved,15.0
+759654,67086,Insurance Plan,Service,2024-03-21,2024-03-23,Resolved,2.0
+120296,90568,Home Security System,Product Quality,2024-06-19,2024-07-16,Resolved,27.0
+881606,46007,Weight Loss Program,Technical Support,2023-11-28,,Unresolved,
+820454,94983,Customer Support Service,Service,2024-06-27,2024-07-27,Resolved,30.0
+835159,79896,Digital Scale,Service,2024-04-20,2024-05-17,Resolved,27.0
+224321,38274,Insurance Plan,Service,2024-07-19,2024-07-25,Resolved,6.0
+215950,86095,Cloud Storage,Service,2024-06-23,2024-07-07,Resolved,14.0
+880534,88095,Insurance Plan,Service,2023-09-07,2023-09-30,Resolved,23.0
+684830,90233,Customer Support Service,Product Quality,2023-09-08,2023-09-19,Resolved,11.0
+907428,57740,Mobile Banking App,Product Quality,2024-03-16,,Unresolved,
+866887,82811,Customer Support Service,Billing,2024-04-08,2024-04-21,Resolved,13.0
+727332,76515,Fitness Tracker,Product Quality,2024-02-11,2024-02-23,Resolved,12.0
+454540,27410,Insurance Plan,Billing,2023-12-26,2024-01-19,Resolved,24.0
+945445,56172,Digital Scale,Technical Support,2023-12-05,2023-12-14,Resolved,9.0
+320333,47648,Weight Loss Program,Billing,2024-02-26,2024-03-27,Resolved,30.0
+173166,19376,Home Security System,Delivery,2024-04-29,2024-05-01,Resolved,2.0
+721026,67140,Fitness Tracker,Product Quality,2024-02-18,2024-02-29,Resolved,11.0
+770666,71141,Personal Safe,Technical Support,2023-12-01,,Unresolved,
+446213,62640,Insurance Plan,Technical Support,2024-08-20,2024-08-25,Resolved,5.0
+967264,77191,Personal Safe,Billing,2023-12-19,,Unresolved,
+425118,31087,Digital Scale,Technical Support,2023-10-20,2023-10-24,Resolved,4.0
+458575,31585,Weight Loss Program,Technical Support,2024-03-18,2024-03-30,Resolved,12.0
+551667,87045,Customer Support Service,Technical Support,2023-09-28,2023-10-05,Resolved,7.0
+114383,80719,Digital Scale,Delivery,2024-04-08,2024-04-21,Resolved,13.0
+588979,79292,Digital Scale,Technical Support,2024-08-02,2024-08-15,Resolved,13.0
+860953,55598,Customer Support Service,Delivery,2023-09-14,2023-09-24,Resolved,10.0
+219716,38266,Mobile Banking App,Service,2023-09-22,2023-10-09,Resolved,17.0
+449468,71202,Customer Support Service,Delivery,2023-10-17,2023-10-29,Resolved,12.0
+168336,83332,Insurance Plan,Billing,2024-03-07,2024-03-21,Resolved,14.0
+218300,63657,Home Security System,Billing,2023-12-12,2023-12-26,Resolved,14.0
+528218,94001,Weight Loss Program,Technical Support,2024-05-23,2024-06-20,Resolved,28.0
+331080,58785,Cloud Storage,Service,2024-06-20,2024-07-17,Resolved,27.0
+644340,75016,Personal Safe,Technical Support,2024-05-26,,Unresolved,
+536509,81051,Personal Safe,Billing,2024-06-12,,Unresolved,
+941984,62041,Insurance Plan,Technical Support,2023-10-20,2023-10-24,Resolved,4.0
+330045,73569,Drone Delivery Service,Technical Support,2024-06-24,,Unresolved,
+714952,60210,Personal Safe,Billing,2023-11-10,2023-11-13,Resolved,3.0
+935185,46214,Cloud Storage,Service,2023-09-18,,Unresolved,
+654160,58021,Mobile Banking App,Service,2024-04-21,,Unresolved,
+553922,32251,Digital Scale,Product Quality,2024-07-11,,Unresolved,
+380292,86383,Insurance Plan,Product Quality,2023-11-22,2023-12-22,Resolved,30.0
+430173,90628,Fitness Tracker,Product Quality,2023-12-05,,Unresolved,
+705211,53708,Fitness Tracker,Billing,2024-06-23,2024-07-21,Resolved,28.0
+876783,31412,Insurance Plan,Delivery,2024-04-14,2024-04-19,Resolved,5.0
+665489,70018,Insurance Plan,Technical Support,2024-03-08,,Unresolved,
+239319,57442,Home Security System,Technical Support,2023-10-12,2023-11-06,Resolved,25.0
+633605,24356,Insurance Plan,Delivery,2023-11-10,2023-11-16,Resolved,6.0
+999237,20752,Digital Scale,Technical Support,2023-11-30,2023-12-19,Resolved,19.0
+689537,71038,Fitness Tracker,Technical Support,2024-06-22,,Unresolved,
+475532,83829,Cloud Storage,Technical Support,2024-04-12,2024-05-04,Resolved,22.0
+552393,32432,Fitness Tracker,Service,2024-05-25,,Unresolved,
+352770,24756,Drone Delivery Service,Billing,2024-08-26,2024-09-22,Resolved,27.0
+952120,62035,Personal Safe,Billing,2024-05-24,2024-05-30,Resolved,6.0
+422626,43954,Drone Delivery Service,Billing,2024-08-03,2024-09-02,Resolved,30.0
+473043,86305,Personal Safe,Service,2024-01-21,2024-01-28,Resolved,7.0
+225104,34579,Cloud Storage,Technical Support,2024-05-29,2024-05-30,Resolved,1.0
+277299,58197,Fitness Tracker,Product Quality,2024-07-12,,Unresolved,
+755950,64383,Fitness Tracker,Product Quality,2023-09-19,2023-09-28,Resolved,9.0
+517509,28311,Fitness Tracker,Service,2024-04-14,2024-04-22,Resolved,8.0
+427217,84728,Weight Loss Program,Product Quality,2024-06-23,2024-07-12,Resolved,19.0
+884788,80325,Drone Delivery Service,Billing,2024-05-06,2024-05-18,Resolved,12.0
+986890,34753,Home Security System,Billing,2024-02-03,2024-02-13,Resolved,10.0
+125665,20271,Digital Scale,Service,2024-05-20,2024-06-19,Resolved,30.0
+250166,66288,Mobile Banking App,Delivery,2024-02-06,,Unresolved,
+616977,30737,Customer Support Service,Service,2024-05-15,2024-06-05,Resolved,21.0
+714723,44222,Insurance Plan,Delivery,2024-03-05,2024-04-02,Resolved,28.0
+601226,43695,Customer Support Service,Service,2023-11-20,,Unresolved,
+906429,42784,Mobile Banking App,Service,2024-08-21,,Unresolved,
+771947,64120,Fitness Tracker,Service,2024-04-17,,Unresolved,
+925953,94854,Mobile Banking App,Service,2024-06-09,2024-06-23,Resolved,14.0
+402395,14122,Customer Support Service,Technical Support,2023-11-03,2023-11-28,Resolved,25.0
+141211,11364,Customer Support Service,Service,2024-07-29,2024-08-27,Resolved,29.0
+801716,84451,Insurance Plan,Product Quality,2024-02-25,2024-03-20,Resolved,24.0
+873653,24518,Personal Safe,Delivery,2024-03-28,2024-04-07,Resolved,10.0
+909760,21396,Cloud Storage,Billing,2024-08-18,2024-08-19,Resolved,1.0
+134121,96559,Home Security System,Delivery,2024-06-08,2024-06-30,Resolved,22.0
+867185,44083,Drone Delivery Service,Product Quality,2023-12-14,2024-01-08,Resolved,25.0
+106948,37145,Personal Safe,Product Quality,2024-04-12,2024-04-23,Resolved,11.0
+103547,65438,Drone Delivery Service,Technical Support,2024-08-25,2024-09-01,Resolved,7.0
+746100,11271,Home Security System,Billing,2023-11-11,2023-11-21,Resolved,10.0
+440221,45881,Drone Delivery Service,Product Quality,2024-06-18,2024-07-14,Resolved,26.0
+353218,28674,Fitness Tracker,Delivery,2024-03-03,2024-03-10,Resolved,7.0
+462539,78721,Weight Loss Program,Product Quality,2023-09-27,2023-10-15,Resolved,18.0
+947762,42734,Weight Loss Program,Service,2024-05-05,2024-05-28,Resolved,23.0
+184533,76280,Mobile Banking App,Delivery,2023-11-15,2023-12-15,Resolved,30.0
+790793,94533,Fitness Tracker,Service,2024-01-26,,Unresolved,
+534276,79131,Home Security System,Service,2023-08-30,2023-09-10,Resolved,11.0
+151886,58714,Fitness Tracker,Product Quality,2024-05-16,,Unresolved,
+695468,37031,Home Security System,Delivery,2023-09-16,2023-10-04,Resolved,18.0
+160674,35151,Digital Scale,Service,2024-08-26,2024-09-14,Resolved,19.0
+353033,76838,Digital Scale,Product Quality,2023-11-08,2023-11-26,Resolved,18.0
+928591,59747,Insurance Plan,Product Quality,2024-07-21,2024-08-19,Resolved,29.0
+426143,94332,Cloud Storage,Billing,2024-07-23,2024-08-16,Resolved,24.0
+632542,35521,Customer Support Service,Delivery,2024-04-30,2024-05-07,Resolved,7.0
+115182,36738,Digital Scale,Product Quality,2024-05-20,,Unresolved,
+420768,24964,Weight Loss Program,Billing,2024-05-24,2024-05-28,Resolved,4.0
+663456,69588,Digital Scale,Product Quality,2024-08-21,2024-08-31,Resolved,10.0
+438282,82407,Cloud Storage,Delivery,2023-10-29,2023-11-06,Resolved,8.0
+226323,74115,Fitness Tracker,Product Quality,2023-09-10,2023-09-14,Resolved,4.0
+367443,95395,Insurance Plan,Delivery,2024-04-11,2024-04-15,Resolved,4.0
+746198,25033,Customer Support Service,Technical Support,2024-06-16,2024-07-02,Resolved,16.0
+854711,64417,Fitness Tracker,Billing,2024-06-10,2024-06-15,Resolved,5.0
+439060,79278,Personal Safe,Delivery,2024-05-25,2024-05-30,Resolved,5.0
+733662,43980,Weight Loss Program,Service,2024-08-25,2024-08-26,Resolved,1.0
+608065,34098,Fitness Tracker,Technical Support,2024-07-28,2024-08-11,Resolved,14.0
+880266,46837,Fitness Tracker,Product Quality,2023-11-10,2023-11-14,Resolved,4.0
+908123,24553,Drone Delivery Service,Billing,2023-12-26,2024-01-20,Resolved,25.0
+883721,22727,Drone Delivery Service,Technical Support,2024-03-12,2024-04-08,Resolved,27.0
+271006,44671,Weight Loss Program,Technical Support,2024-07-04,2024-07-17,Resolved,13.0
+660439,65565,Personal Safe,Technical Support,2024-04-27,,Unresolved,
+463800,40263,Fitness Tracker,Billing,2024-04-03,2024-04-28,Resolved,25.0
+784440,29476,Fitness Tracker,Service,2024-07-11,,Unresolved,
+510139,94811,Customer Support Service,Technical Support,2024-05-14,,Unresolved,
+383694,48287,Mobile Banking App,Billing,2024-02-12,2024-03-07,Resolved,24.0
+827207,87779,Home Security System,Delivery,2024-07-09,2024-07-12,Resolved,3.0
+794155,23771,Digital Scale,Delivery,2024-03-12,2024-03-22,Resolved,10.0
+797958,12791,Insurance Plan,Product Quality,2024-01-12,2024-01-22,Resolved,10.0
+755067,15476,Customer Support Service,Service,2024-02-03,2024-02-24,Resolved,21.0
+556795,69784,Home Security System,Billing,2024-08-11,2024-08-21,Resolved,10.0
+809642,36663,Insurance Plan,Billing,2024-05-30,2024-06-14,Resolved,15.0
+379985,82967,Personal Safe,Service,2024-02-26,,Unresolved,
+572311,28049,Insurance Plan,Delivery,2023-09-26,2023-10-22,Resolved,26.0
+154744,78900,Cloud Storage,Billing,2024-03-04,,Unresolved,
+394967,39054,Fitness Tracker,Billing,2023-10-13,2023-10-15,Resolved,2.0
+429152,43962,Cloud Storage,Billing,2024-03-10,2024-03-26,Resolved,16.0
+637181,76589,Weight Loss Program,Technical Support,2023-12-10,2023-12-31,Resolved,21.0
+397050,53160,Insurance Plan,Billing,2024-01-28,2024-02-17,Resolved,20.0
+564321,79747,Digital Scale,Billing,2023-11-25,2023-12-24,Resolved,29.0
+755368,96940,Fitness Tracker,Billing,2024-04-26,2024-05-01,Resolved,5.0
+556052,99837,Personal Safe,Service,2023-12-28,,Unresolved,
+380341,37136,Personal Safe,Delivery,2023-10-13,2023-10-24,Resolved,11.0
+491527,92858,Drone Delivery Service,Product Quality,2024-03-12,2024-04-09,Resolved,28.0
+470680,91571,Home Security System,Delivery,2023-10-01,2023-10-09,Resolved,8.0
+901091,33770,Fitness Tracker,Technical Support,2024-06-03,2024-06-17,Resolved,14.0
+285211,74672,Digital Scale,Service,2023-10-15,2023-10-19,Resolved,4.0
+570324,22263,Mobile Banking App,Technical Support,2024-03-20,2024-04-09,Resolved,20.0
+854472,97923,Mobile Banking App,Billing,2024-01-12,,Unresolved,
+652824,19845,Digital Scale,Product Quality,2024-05-10,2024-05-13,Resolved,3.0
+947505,44859,Weight Loss Program,Product Quality,2023-12-12,2023-12-26,Resolved,14.0
+593654,82914,Customer Support Service,Delivery,2023-11-18,,Unresolved,
+648248,31091,Digital Scale,Service,2024-03-04,2024-03-10,Resolved,6.0
+542956,30096,Home Security System,Service,2024-06-09,2024-06-26,Resolved,17.0
+372128,19379,Home Security System,Service,2023-12-31,,Unresolved,
+424984,80225,Mobile Banking App,Delivery,2024-02-12,2024-03-09,Resolved,26.0
+117952,79145,Home Security System,Billing,2023-09-27,2023-10-14,Resolved,17.0
+787925,29198,Personal Safe,Delivery,2023-10-21,2023-11-07,Resolved,17.0
+217326,49654,Home Security System,Delivery,2024-04-11,,Unresolved,
+193043,55551,Personal Safe,Technical Support,2024-08-13,2024-09-04,Resolved,22.0
+339958,42082,Mobile Banking App,Delivery,2023-11-19,2023-12-18,Resolved,29.0
+764141,67773,Insurance Plan,Delivery,2023-11-18,2023-12-05,Resolved,17.0
+455748,62911,Weight Loss Program,Service,2023-10-22,2023-11-12,Resolved,21.0
+820870,69079,Digital Scale,Product Quality,2023-12-30,,Unresolved,
+509751,16742,Mobile Banking App,Product Quality,2023-12-10,2024-01-04,Resolved,25.0
+921032,76830,Personal Safe,Product Quality,2024-03-07,,Unresolved,
+742788,11007,Fitness Tracker,Billing,2023-12-28,2024-01-06,Resolved,9.0
+528390,41382,Weight Loss Program,Technical Support,2024-05-02,,Unresolved,
+682631,50185,Home Security System,Product Quality,2024-06-19,,Unresolved,
+829417,30837,Cloud Storage,Technical Support,2024-01-01,2024-01-17,Resolved,16.0
+506743,71910,Mobile Banking App,Delivery,2023-11-22,,Unresolved,
+922907,26890,Fitness Tracker,Technical Support,2023-12-30,,Unresolved,
+304984,81181,Drone Delivery Service,Product Quality,2024-04-21,,Unresolved,
+242112,23102,Customer Support Service,Billing,2023-11-10,2023-11-20,Resolved,10.0
+965198,12300,Mobile Banking App,Delivery,2024-03-01,2024-03-05,Resolved,4.0
+670918,49204,Digital Scale,Delivery,2024-03-23,2024-04-17,Resolved,25.0
+744782,26134,Customer Support Service,Technical Support,2024-05-23,2024-06-11,Resolved,19.0
+539663,76779,Weight Loss Program,Service,2023-12-23,2024-01-03,Resolved,11.0
+888552,69473,Cloud Storage,Service,2024-08-20,2024-09-16,Resolved,27.0
+835731,98200,Insurance Plan,Billing,2024-05-08,2024-05-10,Resolved,2.0
+684549,11597,Personal Safe,Technical Support,2023-09-13,2023-09-20,Resolved,7.0
+307840,84822,Cloud Storage,Delivery,2024-01-24,2024-02-17,Resolved,24.0
+223187,50485,Drone Delivery Service,Technical Support,2024-08-20,2024-08-21,Resolved,1.0
+723885,66141,Fitness Tracker,Product Quality,2024-05-28,2024-06-09,Resolved,12.0
+884909,75378,Digital Scale,Product Quality,2023-10-13,2023-11-02,Resolved,20.0
+121784,99643,Fitness Tracker,Delivery,2024-04-13,2024-05-07,Resolved,24.0
+619378,83378,Cloud Storage,Technical Support,2024-06-11,2024-07-06,Resolved,25.0
+267422,75424,Fitness Tracker,Billing,2024-06-13,2024-07-02,Resolved,19.0
+472989,62467,Drone Delivery Service,Technical Support,2024-05-02,2024-05-05,Resolved,3.0
+460061,45638,Drone Delivery Service,Delivery,2024-07-14,2024-07-25,Resolved,11.0
+417941,90303,Home Security System,Service,2024-07-22,2024-08-18,Resolved,27.0
+390388,80741,Mobile Banking App,Delivery,2023-12-14,,Unresolved,
+984667,14576,Insurance Plan,Product Quality,2024-06-13,2024-07-10,Resolved,27.0
+745258,45043,Insurance Plan,Delivery,2024-04-22,,Unresolved,
+715432,69856,Insurance Plan,Service,2024-02-12,2024-02-17,Resolved,5.0
+850144,38914,Home Security System,Product Quality,2024-06-17,2024-07-12,Resolved,25.0
+310595,28396,Customer Support Service,Billing,2023-11-24,2023-11-30,Resolved,6.0
+805482,86651,Personal Safe,Billing,2024-03-10,,Unresolved,
+668827,56357,Insurance Plan,Technical Support,2024-07-16,2024-08-02,Resolved,17.0
+940653,53021,Mobile Banking App,Billing,2023-12-09,,Unresolved,
+528097,30579,Drone Delivery Service,Technical Support,2024-01-16,2024-02-06,Resolved,21.0
+406997,79902,Cloud Storage,Product Quality,2024-04-07,2024-04-17,Resolved,10.0
+541491,64855,Cloud Storage,Billing,2024-05-09,2024-05-16,Resolved,7.0
+946112,29181,Fitness Tracker,Service,2023-10-14,2023-11-13,Resolved,30.0
+885321,75162,Fitness Tracker,Technical Support,2024-05-07,2024-05-08,Resolved,1.0
+370275,82294,Personal Safe,Billing,2023-09-17,,Unresolved,
+444156,90657,Cloud Storage,Product Quality,2024-05-23,2024-06-20,Resolved,28.0
+507881,21121,Customer Support Service,Billing,2024-02-17,2024-03-05,Resolved,17.0
+477749,29401,Customer Support Service,Technical Support,2023-12-31,2024-01-13,Resolved,13.0
+722162,75371,Cloud Storage,Technical Support,2024-01-12,2024-01-31,Resolved,19.0
+734757,71182,Weight Loss Program,Service,2024-05-09,2024-05-31,Resolved,22.0
+790250,39204,Weight Loss Program,Product Quality,2024-02-02,2024-02-27,Resolved,25.0
+640110,22977,Mobile Banking App,Billing,2023-12-13,2023-12-27,Resolved,14.0
+944645,87849,Cloud Storage,Technical Support,2023-10-21,2023-11-09,Resolved,19.0
+340842,60013,Digital Scale,Product Quality,2024-01-18,2024-02-11,Resolved,24.0
+422539,31718,Home Security System,Product Quality,2024-02-12,2024-03-09,Resolved,26.0
+770869,86652,Customer Support Service,Technical Support,2024-07-18,2024-07-21,Resolved,3.0
+465300,67163,Weight Loss Program,Service,2024-05-14,2024-05-19,Resolved,5.0
+584845,76496,Drone Delivery Service,Product Quality,2024-04-06,2024-04-19,Resolved,13.0
+490294,64905,Weight Loss Program,Technical Support,2024-02-10,,Unresolved,
+770633,33880,Personal Safe,Technical Support,2024-03-15,2024-04-02,Resolved,18.0
+765406,84068,Mobile Banking App,Technical Support,2023-09-12,2023-10-12,Resolved,30.0
+744654,97862,Personal Safe,Technical Support,2023-11-07,2023-12-03,Resolved,26.0
+960296,47154,Digital Scale,Product Quality,2024-01-25,2024-02-20,Resolved,26.0
+738037,30692,Drone Delivery Service,Billing,2024-03-17,2024-04-11,Resolved,25.0
+279547,43131,Digital Scale,Delivery,2024-04-15,2024-04-20,Resolved,5.0
+643470,69824,Drone Delivery Service,Technical Support,2023-11-09,2023-11-13,Resolved,4.0
+198333,74773,Insurance Plan,Billing,2024-07-06,2024-07-27,Resolved,21.0
+990624,54602,Mobile Banking App,Billing,2023-10-21,2023-11-19,Resolved,29.0
+603833,85937,Fitness Tracker,Delivery,2024-03-02,2024-03-30,Resolved,28.0
+916589,42160,Drone Delivery Service,Service,2023-12-20,,Unresolved,
+214011,54861,Drone Delivery Service,Service,2024-02-05,2024-02-22,Resolved,17.0
+347330,45730,Cloud Storage,Service,2024-06-07,2024-06-12,Resolved,5.0
+974934,14930,Personal Safe,Product Quality,2024-08-08,2024-08-31,Resolved,23.0
+437932,91732,Mobile Banking App,Delivery,2024-03-02,2024-03-25,Resolved,23.0
+504613,65612,Customer Support Service,Product Quality,2024-06-16,2024-06-17,Resolved,1.0
+155795,37240,Weight Loss Program,Billing,2024-07-13,2024-07-20,Resolved,7.0
+453883,40964,Fitness Tracker,Billing,2024-02-06,2024-02-08,Resolved,2.0
+469577,49054,Cloud Storage,Service,2024-02-02,,Unresolved,
+328471,22638,Insurance Plan,Billing,2024-06-18,2024-07-11,Resolved,23.0
+695390,28521,Home Security System,Product Quality,2023-11-28,2023-12-11,Resolved,13.0
+244195,10692,Home Security System,Delivery,2024-08-12,2024-08-25,Resolved,13.0
+600371,75503,Insurance Plan,Delivery,2024-07-21,,Unresolved,
+827477,95638,Mobile Banking App,Billing,2024-05-25,2024-06-09,Resolved,15.0
+963917,34479,Mobile Banking App,Service,2024-07-29,2024-08-10,Resolved,12.0
+535828,33382,Personal Safe,Service,2023-09-04,2023-09-20,Resolved,16.0
+817964,65342,Drone Delivery Service,Billing,2023-11-25,,Unresolved,
+664159,15051,Mobile Banking App,Technical Support,2023-12-19,2023-12-21,Resolved,2.0
+448071,85732,Insurance Plan,Billing,2024-07-09,2024-07-30,Resolved,21.0
+505119,72595,Personal Safe,Technical Support,2024-05-18,,Unresolved,
+478908,79315,Weight Loss Program,Technical Support,2023-11-26,2023-12-17,Resolved,21.0
+290210,54422,Mobile Banking App,Delivery,2024-05-02,2024-05-18,Resolved,16.0
+344633,35996,Drone Delivery Service,Product Quality,2024-08-28,,Unresolved,
+843649,97687,Personal Safe,Service,2024-02-19,,Unresolved,
+532765,89064,Fitness Tracker,Product Quality,2023-10-25,2023-10-30,Resolved,5.0
+937505,37665,Cloud Storage,Billing,2023-11-04,2023-11-05,Resolved,1.0
+667876,80444,Personal Safe,Service,2023-09-06,2023-09-21,Resolved,15.0
+115782,63410,Weight Loss Program,Service,2024-05-13,2024-06-06,Resolved,24.0
+284250,34684,Drone Delivery Service,Service,2024-05-08,2024-05-11,Resolved,3.0
+878132,17300,Digital Scale,Technical Support,2023-10-28,2023-10-30,Resolved,2.0
+301631,22053,Home Security System,Service,2024-01-17,2024-02-03,Resolved,17.0
+955413,33158,Insurance Plan,Billing,2023-11-19,2023-11-21,Resolved,2.0
+622350,73404,Personal Safe,Product Quality,2024-07-18,2024-08-03,Resolved,16.0
+680037,76537,Weight Loss Program,Service,2024-05-26,2024-06-06,Resolved,11.0
+947370,71413,Digital Scale,Delivery,2023-09-19,,Unresolved,
+506233,12961,Drone Delivery Service,Service,2023-12-09,,Unresolved,
+960566,18409,Digital Scale,Delivery,2024-08-02,2024-08-15,Resolved,13.0
+865841,64887,Drone Delivery Service,Delivery,2023-12-24,,Unresolved,
+972664,78967,Fitness Tracker,Service,2024-01-01,2024-01-12,Resolved,11.0
+164299,65533,Digital Scale,Product Quality,2024-04-24,2024-05-08,Resolved,14.0
+304088,92240,Customer Support Service,Technical Support,2024-02-14,,Unresolved,
+651292,57318,Customer Support Service,Service,2024-05-28,2024-06-21,Resolved,24.0
+560413,14913,Home Security System,Technical Support,2023-11-14,2023-12-06,Resolved,22.0
+414155,45553,Customer Support Service,Service,2024-03-11,2024-04-03,Resolved,23.0
+687799,38376,Mobile Banking App,Technical Support,2024-04-07,,Unresolved,
+266990,89574,Drone Delivery Service,Product Quality,2023-10-13,,Unresolved,
+526924,89565,Home Security System,Billing,2024-04-18,,Unresolved,
+769587,19057,Weight Loss Program,Billing,2024-05-25,2024-06-11,Resolved,17.0
+128204,75809,Drone Delivery Service,Product Quality,2024-04-12,2024-04-17,Resolved,5.0
+616063,49759,Cloud Storage,Technical Support,2023-12-24,2024-01-19,Resolved,26.0
+711908,74408,Customer Support Service,Delivery,2024-02-14,2024-02-23,Resolved,9.0
+639005,92658,Fitness Tracker,Service,2024-01-07,2024-01-13,Resolved,6.0
+399237,54816,Weight Loss Program,Service,2024-01-26,2024-02-04,Resolved,9.0
+121083,94680,Mobile Banking App,Service,2023-12-03,2023-12-10,Resolved,7.0
+200868,81973,Customer Support Service,Billing,2023-12-31,2024-01-11,Resolved,11.0
+999409,74698,Fitness Tracker,Product Quality,2023-12-01,,Unresolved,
+362696,48254,Digital Scale,Billing,2023-08-31,,Unresolved,
+345669,40775,Drone Delivery Service,Service,2024-05-31,2024-06-17,Resolved,17.0
+505430,43166,Cloud Storage,Delivery,2023-11-02,,Unresolved,
+116733,61197,Weight Loss Program,Technical Support,2024-01-05,2024-01-06,Resolved,1.0
+964784,27929,Fitness Tracker,Technical Support,2024-02-15,2024-02-16,Resolved,1.0
+440587,63840,Drone Delivery Service,Service,2024-03-21,2024-04-13,Resolved,23.0
+784655,72244,Digital Scale,Technical Support,2024-01-16,,Unresolved,
+377891,93809,Cloud Storage,Product Quality,2024-07-02,,Unresolved,
+123770,89341,Fitness Tracker,Product Quality,2023-11-18,2023-11-23,Resolved,5.0
+938426,51466,Customer Support Service,Technical Support,2024-05-22,2024-06-20,Resolved,29.0
+570276,79075,Digital Scale,Delivery,2024-01-29,2024-02-08,Resolved,10.0
+809982,49860,Home Security System,Product Quality,2024-06-19,2024-06-29,Resolved,10.0
+387573,74221,Digital Scale,Product Quality,2024-05-10,,Unresolved,
+463872,91309,Mobile Banking App,Delivery,2024-05-05,2024-06-01,Resolved,27.0
+348737,62094,Drone Delivery Service,Billing,2023-11-24,2023-12-15,Resolved,21.0
+308025,78537,Insurance Plan,Product Quality,2024-01-01,2024-01-10,Resolved,9.0
+652331,33050,Cloud Storage,Product Quality,2023-11-11,2023-12-10,Resolved,29.0
+285420,10452,Personal Safe,Billing,2023-11-28,,Unresolved,
+701490,27810,Weight Loss Program,Product Quality,2024-05-04,2024-05-31,Resolved,27.0
+372638,72203,Weight Loss Program,Delivery,2023-11-26,,Unresolved,
+272423,12117,Digital Scale,Product Quality,2024-02-14,2024-03-02,Resolved,17.0
+630429,90234,Insurance Plan,Service,2024-03-07,2024-03-29,Resolved,22.0
+781139,79929,Insurance Plan,Technical Support,2023-11-23,2023-12-02,Resolved,9.0
+307219,20394,Mobile Banking App,Billing,2023-11-24,2023-12-14,Resolved,20.0
+295928,80077,Cloud Storage,Delivery,2024-07-02,,Unresolved,
+522290,16548,Home Security System,Billing,2024-05-06,2024-05-08,Resolved,2.0
+773821,90612,Insurance Plan,Product Quality,2023-12-23,2024-01-21,Resolved,29.0
+714185,73738,Personal Safe,Service,2023-10-11,2023-10-15,Resolved,4.0
+556747,74995,Weight Loss Program,Delivery,2024-05-12,2024-05-30,Resolved,18.0
+603009,72962,Customer Support Service,Technical Support,2024-05-18,2024-06-01,Resolved,14.0
+841313,55016,Customer Support Service,Technical Support,2023-12-23,2024-01-22,Resolved,30.0
+686296,36571,Insurance Plan,Delivery,2024-01-05,2024-01-30,Resolved,25.0
+334320,36089,Weight Loss Program,Delivery,2024-05-19,2024-06-17,Resolved,29.0
+929642,58712,Fitness Tracker,Technical Support,2023-12-02,2023-12-27,Resolved,25.0
+342699,15671,Fitness Tracker,Service,2023-09-03,,Unresolved,
+647170,88497,Personal Safe,Delivery,2024-01-27,,Unresolved,
+990835,74052,Mobile Banking App,Delivery,2023-10-10,,Unresolved,
+380716,62430,Insurance Plan,Technical Support,2024-06-17,2024-06-19,Resolved,2.0
+187483,61540,Home Security System,Technical Support,2024-07-25,2024-08-13,Resolved,19.0
+107287,88417,Customer Support Service,Technical Support,2023-11-02,2023-11-22,Resolved,20.0
+122412,72378,Cloud Storage,Billing,2024-01-16,2024-01-27,Resolved,11.0
+700115,93834,Mobile Banking App,Billing,2023-11-18,,Unresolved,
+670603,26346,Fitness Tracker,Technical Support,2023-09-26,,Unresolved,
+846306,72107,Cloud Storage,Product Quality,2024-01-22,,Unresolved,
+959643,82560,Weight Loss Program,Billing,2024-02-12,2024-02-18,Resolved,6.0
+524129,19107,Personal Safe,Billing,2024-07-01,,Unresolved,
+512179,39813,Weight Loss Program,Service,2024-04-03,2024-04-21,Resolved,18.0
+420112,12265,Customer Support Service,Service,2023-12-27,2024-01-24,Resolved,28.0
+570206,27689,Digital Scale,Delivery,2024-06-14,2024-07-09,Resolved,25.0
+833155,23952,Fitness Tracker,Billing,2024-06-28,2024-07-26,Resolved,28.0
+361324,26112,Fitness Tracker,Service,2023-10-27,2023-11-17,Resolved,21.0
+931323,77209,Insurance Plan,Product Quality,2024-06-23,2024-07-16,Resolved,23.0
+782001,24072,Weight Loss Program,Technical Support,2024-01-11,2024-01-21,Resolved,10.0
+936257,97409,Mobile Banking App,Product Quality,2023-12-10,2024-01-02,Resolved,23.0
+303851,66489,Home Security System,Delivery,2024-05-31,2024-06-13,Resolved,13.0
+154001,58098,Drone Delivery Service,Service,2024-02-10,2024-02-29,Resolved,19.0
+576058,88557,Personal Safe,Product Quality,2023-12-04,,Unresolved,
+386435,27812,Digital Scale,Technical Support,2023-10-24,2023-10-30,Resolved,6.0
+739429,42084,Home Security System,Product Quality,2023-12-22,2024-01-09,Resolved,18.0
+180584,86863,Insurance Plan,Delivery,2024-07-08,2024-08-03,Resolved,26.0
+592602,22300,Customer Support Service,Product Quality,2024-04-18,,Unresolved,
+958175,83435,Mobile Banking App,Delivery,2023-12-01,2023-12-20,Resolved,19.0
+907246,95240,Personal Safe,Service,2024-06-18,2024-06-29,Resolved,11.0
+703335,49646,Personal Safe,Billing,2023-10-22,2023-11-10,Resolved,19.0
+395329,52214,Cloud Storage,Product Quality,2023-12-04,2023-12-13,Resolved,9.0
+945740,58561,Digital Scale,Technical Support,2024-02-01,,Unresolved,
+443456,98190,Personal Safe,Billing,2024-07-01,2024-07-02,Resolved,1.0
+465822,80417,Fitness Tracker,Billing,2023-08-30,2023-09-28,Resolved,29.0
+159104,27288,Mobile Banking App,Technical Support,2024-02-24,2024-03-10,Resolved,15.0
+662710,12715,Home Security System,Delivery,2024-07-02,2024-07-10,Resolved,8.0
+608432,76920,Personal Safe,Product Quality,2024-06-02,2024-06-26,Resolved,24.0
+142079,72581,Customer Support Service,Technical Support,2023-09-20,2023-10-12,Resolved,22.0
+747382,77701,Digital Scale,Service,2023-09-02,2023-09-12,Resolved,10.0
+146094,70830,Customer Support Service,Delivery,2023-08-29,2023-09-05,Resolved,7.0
+126068,35426,Mobile Banking App,Product Quality,2023-10-15,2023-11-08,Resolved,24.0
+778073,69906,Drone Delivery Service,Technical Support,2023-11-14,2023-11-24,Resolved,10.0
+178827,35836,Cloud Storage,Technical Support,2023-11-30,,Unresolved,
+495258,35193,Personal Safe,Delivery,2024-05-29,2024-06-26,Resolved,28.0
+632028,19972,Home Security System,Delivery,2024-02-01,2024-02-27,Resolved,26.0
+590892,19636,Mobile Banking App,Service,2023-11-27,2023-12-17,Resolved,20.0
+703008,83408,Personal Safe,Product Quality,2023-09-16,,Unresolved,
+959378,75162,Personal Safe,Delivery,2024-01-25,2024-02-09,Resolved,15.0
+952409,23346,Weight Loss Program,Service,2023-10-19,2023-10-21,Resolved,2.0
+178637,56921,Cloud Storage,Billing,2023-12-06,2023-12-24,Resolved,18.0
+541798,25111,Digital Scale,Product Quality,2024-05-22,,Unresolved,
+274889,79157,Weight Loss Program,Technical Support,2023-11-06,2023-11-27,Resolved,21.0
+561869,72892,Personal Safe,Product Quality,2023-10-12,,Unresolved,
+105368,61420,Digital Scale,Technical Support,2024-04-01,2024-04-18,Resolved,17.0
+797666,55491,Home Security System,Technical Support,2023-11-29,2023-12-26,Resolved,27.0
+207193,47452,Digital Scale,Technical Support,2023-11-10,2023-12-10,Resolved,30.0
+744211,75411,Cloud Storage,Service,2024-01-17,2024-02-03,Resolved,17.0
+914345,15274,Home Security System,Product Quality,2024-02-19,2024-03-04,Resolved,14.0
+717107,81769,Fitness Tracker,Technical Support,2024-03-24,,Unresolved,
+177506,20982,Fitness Tracker,Delivery,2023-11-20,2023-12-18,Resolved,28.0
+601052,22615,Personal Safe,Product Quality,2024-06-04,2024-06-06,Resolved,2.0
+207366,90213,Drone Delivery Service,Billing,2023-11-26,2023-12-19,Resolved,23.0
+275937,86128,Home Security System,Technical Support,2023-10-04,2023-10-27,Resolved,23.0
+402266,13769,Weight Loss Program,Billing,2024-06-05,2024-07-04,Resolved,29.0
+723332,23875,Home Security System,Service,2024-06-11,,Unresolved,
+512700,72971,Personal Safe,Service,2023-09-08,2023-09-11,Resolved,3.0
+357092,99555,Insurance Plan,Technical Support,2024-02-12,2024-02-23,Resolved,11.0
+233286,85043,Weight Loss Program,Technical Support,2023-09-12,2023-10-06,Resolved,24.0
+551178,66525,Drone Delivery Service,Product Quality,2024-04-19,,Unresolved,
+122588,27288,Digital Scale,Billing,2024-07-14,2024-07-25,Resolved,11.0
+744639,81457,Mobile Banking App,Technical Support,2024-02-07,,Unresolved,
+611665,39762,Personal Safe,Delivery,2024-07-11,2024-07-20,Resolved,9.0
+344507,30383,Fitness Tracker,Delivery,2024-07-24,,Unresolved,
+484880,19994,Cloud Storage,Product Quality,2024-03-06,2024-03-20,Resolved,14.0
+658680,25261,Weight Loss Program,Service,2023-09-02,2023-09-22,Resolved,20.0
+318799,42138,Personal Safe,Billing,2023-11-02,2023-11-03,Resolved,1.0
+378744,28617,Home Security System,Product Quality,2024-05-04,2024-05-16,Resolved,12.0
+205335,49740,Cloud Storage,Product Quality,2024-05-27,2024-06-03,Resolved,7.0
+517440,58731,Drone Delivery Service,Product Quality,2023-12-10,2023-12-11,Resolved,1.0
+800923,63681,Fitness Tracker,Product Quality,2024-04-12,2024-05-06,Resolved,24.0
+103574,27328,Fitness Tracker,Delivery,2023-10-19,2023-11-09,Resolved,21.0
+586810,13423,Fitness Tracker,Product Quality,2023-10-04,2023-10-30,Resolved,26.0
+748717,85901,Personal Safe,Service,2024-04-24,2024-04-29,Resolved,5.0
+298716,46547,Insurance Plan,Technical Support,2023-12-09,2024-01-08,Resolved,30.0
+669037,34065,Personal Safe,Service,2024-01-05,2024-01-30,Resolved,25.0
+905920,63027,Fitness Tracker,Product Quality,2024-05-04,2024-05-25,Resolved,21.0
+825343,70164,Customer Support Service,Technical Support,2024-04-12,,Unresolved,
+730865,16605,Drone Delivery Service,Delivery,2024-05-16,2024-06-02,Resolved,17.0
+499694,93449,Fitness Tracker,Billing,2023-11-11,2023-11-25,Resolved,14.0
+616115,33690,Fitness Tracker,Service,2023-12-16,,Unresolved,
+677549,64867,Cloud Storage,Service,2023-11-27,,Unresolved,
+748064,33126,Digital Scale,Delivery,2023-12-11,2023-12-26,Resolved,15.0
+123528,48767,Weight Loss Program,Billing,2024-01-10,2024-02-05,Resolved,26.0
+597392,26112,Home Security System,Technical Support,2024-03-22,2024-04-16,Resolved,25.0
+594201,78896,Drone Delivery Service,Service,2024-07-17,2024-08-03,Resolved,17.0
+831633,20386,Drone Delivery Service,Service,2024-03-25,2024-04-05,Resolved,11.0
+623442,23707,Cloud Storage,Product Quality,2024-04-08,2024-04-29,Resolved,21.0
+449109,67727,Cloud Storage,Delivery,2024-04-13,2024-05-03,Resolved,20.0
+553273,23894,Mobile Banking App,Service,2023-09-24,2023-10-13,Resolved,19.0
+513649,43568,Cloud Storage,Product Quality,2024-08-18,2024-08-31,Resolved,13.0
+775603,68819,Personal Safe,Technical Support,2024-05-14,2024-06-08,Resolved,25.0
+602216,59921,Insurance Plan,Delivery,2024-01-19,2024-02-08,Resolved,20.0
+364104,58600,Cloud Storage,Delivery,2023-11-02,2023-11-04,Resolved,2.0
+959755,19491,Cloud Storage,Technical Support,2023-10-24,2023-11-04,Resolved,11.0
+148623,75917,Cloud Storage,Delivery,2024-06-04,2024-07-02,Resolved,28.0
+178304,55472,Home Security System,Technical Support,2024-03-17,2024-03-29,Resolved,12.0
+593271,44826,Personal Safe,Service,2024-06-21,2024-06-26,Resolved,5.0
+451522,29233,Digital Scale,Product Quality,2023-11-24,2023-12-18,Resolved,24.0
+364976,38040,Fitness Tracker,Technical Support,2023-11-02,,Unresolved,
+513405,86761,Personal Safe,Technical Support,2024-07-03,2024-07-28,Resolved,25.0
+276850,16891,Cloud Storage,Service,2024-01-30,2024-02-16,Resolved,17.0
+292395,98470,Weight Loss Program,Billing,2024-03-16,2024-04-15,Resolved,30.0
+225119,26100,Weight Loss Program,Technical Support,2023-12-02,,Unresolved,
+972685,52194,Cloud Storage,Product Quality,2023-12-20,2024-01-03,Resolved,14.0
+153088,63937,Drone Delivery Service,Service,2024-06-17,2024-06-28,Resolved,11.0
+831650,98538,Fitness Tracker,Technical Support,2024-02-25,2024-03-04,Resolved,8.0
+351542,54299,Cloud Storage,Technical Support,2024-06-20,2024-06-21,Resolved,1.0
+189588,34715,Digital Scale,Delivery,2024-08-16,2024-09-08,Resolved,23.0
+965422,43733,Fitness Tracker,Service,2023-10-02,2023-10-12,Resolved,10.0
+477617,67875,Fitness Tracker,Delivery,2023-11-19,2023-12-01,Resolved,12.0
+744061,20101,Mobile Banking App,Technical Support,2023-10-03,2023-10-06,Resolved,3.0
+994162,12337,Customer Support Service,Technical Support,2024-04-09,2024-05-02,Resolved,23.0
+603852,56127,Customer Support Service,Billing,2024-06-23,2024-07-22,Resolved,29.0
+602096,63743,Fitness Tracker,Technical Support,2023-09-26,,Unresolved,
+247558,82822,Fitness Tracker,Technical Support,2024-04-29,,Unresolved,
+574326,63553,Weight Loss Program,Service,2023-10-31,2023-11-24,Resolved,24.0
+596870,13705,Customer Support Service,Product Quality,2023-12-25,2023-12-29,Resolved,4.0
+433716,33485,Home Security System,Service,2024-01-31,2024-02-08,Resolved,8.0
+533297,21877,Home Security System,Technical Support,2023-12-11,,Unresolved,
+761232,56391,Personal Safe,Delivery,2024-04-20,,Unresolved,
+891376,87550,Cloud Storage,Product Quality,2024-07-29,,Unresolved,
+507918,40414,Customer Support Service,Service,2024-01-07,2024-01-15,Resolved,8.0
+381422,40413,Cloud Storage,Billing,2024-04-04,2024-04-25,Resolved,21.0
+795305,15104,Personal Safe,Delivery,2024-06-29,2024-07-18,Resolved,19.0
+231128,90025,Weight Loss Program,Delivery,2023-10-20,2023-11-18,Resolved,29.0
+492660,43436,Insurance Plan,Product Quality,2023-11-09,2023-11-19,Resolved,10.0
+650878,11553,Drone Delivery Service,Technical Support,2023-09-18,2023-09-20,Resolved,2.0
+149381,54006,Digital Scale,Technical Support,2024-04-30,,Unresolved,
+682131,27689,Weight Loss Program,Product Quality,2024-08-11,2024-09-03,Resolved,23.0
+965337,30762,Fitness Tracker,Service,2023-11-21,,Unresolved,
+536548,98958,Insurance Plan,Service,2024-05-31,,Unresolved,
+131041,99397,Insurance Plan,Delivery,2024-02-16,2024-02-26,Resolved,10.0
+735266,74243,Weight Loss Program,Delivery,2024-06-21,2024-07-18,Resolved,27.0
+263192,31870,Mobile Banking App,Product Quality,2023-09-28,2023-10-23,Resolved,25.0
+799683,99697,Fitness Tracker,Product Quality,2024-06-25,2024-06-29,Resolved,4.0
+653791,94573,Drone Delivery Service,Service,2024-01-31,2024-02-16,Resolved,16.0
+451707,10320,Fitness Tracker,Technical Support,2023-10-10,,Unresolved,
+105841,98199,Customer Support Service,Product Quality,2024-03-25,2024-04-18,Resolved,24.0
+390682,52301,Personal Safe,Product Quality,2023-12-13,2024-01-04,Resolved,22.0
+899948,59990,Insurance Plan,Service,2024-07-12,2024-07-29,Resolved,17.0
+290963,56614,Fitness Tracker,Technical Support,2023-10-20,2023-11-07,Resolved,18.0
+702971,96350,Fitness Tracker,Technical Support,2023-10-21,2023-11-11,Resolved,21.0
+962739,41632,Personal Safe,Service,2024-02-27,2024-03-10,Resolved,12.0
+673541,22719,Cloud Storage,Delivery,2024-06-04,2024-06-10,Resolved,6.0
+303384,16962,Cloud Storage,Service,2023-09-01,2023-09-28,Resolved,27.0
+645465,16975,Digital Scale,Delivery,2023-11-02,2023-11-07,Resolved,5.0
+345602,66597,Insurance Plan,Product Quality,2024-02-19,2024-02-26,Resolved,7.0
+164896,31691,Drone Delivery Service,Billing,2024-03-12,2024-03-21,Resolved,9.0
+741452,93932,Insurance Plan,Product Quality,2023-12-15,2023-12-21,Resolved,6.0
+913358,69084,Customer Support Service,Billing,2024-01-02,,Unresolved,
+415761,25575,Personal Safe,Technical Support,2024-02-24,2024-03-03,Resolved,8.0
+868087,78302,Drone Delivery Service,Service,2023-11-23,2023-12-10,Resolved,17.0
+773855,48135,Mobile Banking App,Service,2023-09-13,2023-10-10,Resolved,27.0
+582157,86303,Customer Support Service,Billing,2024-04-28,,Unresolved,
+532037,92514,Mobile Banking App,Service,2024-02-13,2024-02-16,Resolved,3.0
+432472,64657,Drone Delivery Service,Service,2023-11-22,2023-12-22,Resolved,30.0
+732448,38588,Mobile Banking App,Billing,2023-12-24,,Unresolved,
+315522,97200,Customer Support Service,Service,2024-08-25,2024-09-01,Resolved,7.0
+188919,42146,Customer Support Service,Technical Support,2023-10-10,2023-10-28,Resolved,18.0
+888015,93030,Mobile Banking App,Billing,2024-04-14,2024-05-11,Resolved,27.0
+820299,31159,Personal Safe,Delivery,2024-08-13,2024-08-17,Resolved,4.0
+272751,55174,Home Security System,Service,2023-09-22,2023-10-15,Resolved,23.0
+832807,69925,Personal Safe,Technical Support,2023-11-02,2023-11-21,Resolved,19.0
+910684,34865,Fitness Tracker,Billing,2024-08-18,2024-08-29,Resolved,11.0
+820220,86501,Cloud Storage,Product Quality,2024-02-28,2024-03-04,Resolved,5.0
+295185,93862,Customer Support Service,Delivery,2023-09-01,2023-09-21,Resolved,20.0
+444400,77750,Mobile Banking App,Technical Support,2024-07-26,2024-08-06,Resolved,11.0
+910277,62171,Mobile Banking App,Billing,2024-07-25,2024-08-02,Resolved,8.0
+792947,91730,Drone Delivery Service,Billing,2024-01-26,2024-02-01,Resolved,6.0
+744045,98470,Personal Safe,Product Quality,2024-06-09,2024-06-12,Resolved,3.0
+476342,49875,Mobile Banking App,Service,2023-11-15,2023-11-17,Resolved,2.0
+467026,33442,Home Security System,Delivery,2024-08-26,2024-09-02,Resolved,7.0
+784625,53832,Weight Loss Program,Billing,2023-12-25,2024-01-01,Resolved,7.0
+115642,94704,Insurance Plan,Service,2024-02-07,2024-03-01,Resolved,23.0
+408633,55173,Weight Loss Program,Service,2023-09-22,,Unresolved,
+175482,34652,Digital Scale,Product Quality,2024-03-23,2024-04-02,Resolved,10.0
+497965,78403,Digital Scale,Technical Support,2024-03-21,2024-03-31,Resolved,10.0
+245294,50561,Weight Loss Program,Service,2024-05-19,2024-06-11,Resolved,23.0
+938470,14604,Insurance Plan,Service,2024-02-04,,Unresolved,
+690984,56058,Weight Loss Program,Billing,2023-09-22,2023-10-18,Resolved,26.0
+593897,17239,Personal Safe,Delivery,2024-08-19,2024-09-06,Resolved,18.0
+880705,98935,Fitness Tracker,Billing,2024-08-22,2024-08-30,Resolved,8.0
+363099,68347,Home Security System,Product Quality,2023-09-18,2023-10-12,Resolved,24.0
+496348,40799,Customer Support Service,Service,2023-09-09,2023-09-26,Resolved,17.0
+372371,18775,Personal Safe,Delivery,2024-06-09,2024-06-22,Resolved,13.0
+400264,45334,Home Security System,Billing,2023-11-06,,Unresolved,
+947197,55149,Fitness Tracker,Delivery,2024-01-01,2024-01-28,Resolved,27.0
+163862,76291,Personal Safe,Technical Support,2024-01-05,2024-01-08,Resolved,3.0
+990873,49434,Customer Support Service,Product Quality,2024-05-21,,Unresolved,
+737725,17133,Digital Scale,Product Quality,2023-10-07,2023-10-24,Resolved,17.0
+437155,81312,Insurance Plan,Service,2024-07-04,2024-08-03,Resolved,30.0
+822691,76494,Insurance Plan,Billing,2023-09-14,2023-10-05,Resolved,21.0
+971815,27320,Cloud Storage,Delivery,2024-02-19,2024-03-12,Resolved,22.0
+956637,44191,Fitness Tracker,Technical Support,2023-08-31,2023-09-07,Resolved,7.0
+222981,34184,Cloud Storage,Delivery,2024-05-16,2024-06-10,Resolved,25.0
+471551,87889,Customer Support Service,Delivery,2024-07-05,,Unresolved,
+959994,93346,Cloud Storage,Service,2024-06-13,2024-07-04,Resolved,21.0
+508902,93011,Personal Safe,Billing,2023-09-05,2023-09-08,Resolved,3.0
+286528,90906,Home Security System,Product Quality,2024-07-23,2024-08-18,Resolved,26.0
+102441,82577,Digital Scale,Service,2024-05-08,2024-06-06,Resolved,29.0
+127125,66261,Digital Scale,Delivery,2023-09-14,2023-09-29,Resolved,15.0
+758898,19772,Mobile Banking App,Delivery,2024-02-12,2024-03-04,Resolved,21.0
+235893,65895,Drone Delivery Service,Technical Support,2024-01-02,2024-01-03,Resolved,1.0
+619266,17439,Insurance Plan,Service,2024-03-18,2024-03-23,Resolved,5.0
+268862,99048,Fitness Tracker,Billing,2024-07-03,2024-07-27,Resolved,24.0
+863856,43236,Fitness Tracker,Technical Support,2024-07-13,2024-08-03,Resolved,21.0
+301168,54637,Cloud Storage,Technical Support,2024-05-22,2024-06-14,Resolved,23.0
+552420,64060,Fitness Tracker,Service,2024-05-30,,Unresolved,
+881446,60252,Customer Support Service,Service,2024-03-28,2024-03-29,Resolved,1.0
+401012,32140,Fitness Tracker,Delivery,2024-01-11,,Unresolved,
+477641,13752,Drone Delivery Service,Delivery,2024-01-07,2024-01-26,Resolved,19.0
+377081,44447,Drone Delivery Service,Service,2024-04-28,,Unresolved,
+958460,57978,Personal Safe,Product Quality,2023-12-03,2023-12-14,Resolved,11.0
+723555,71064,Mobile Banking App,Delivery,2024-05-06,2024-05-19,Resolved,13.0
+565433,71931,Digital Scale,Technical Support,2024-01-05,2024-01-23,Resolved,18.0
+152812,38669,Digital Scale,Service,2024-02-08,2024-02-14,Resolved,6.0
+334047,60109,Fitness Tracker,Billing,2024-07-07,2024-07-16,Resolved,9.0
+881916,66824,Customer Support Service,Service,2024-02-24,,Unresolved,
+601488,27568,Insurance Plan,Billing,2024-07-13,2024-07-19,Resolved,6.0
+628555,71065,Personal Safe,Technical Support,2023-10-09,2023-11-04,Resolved,26.0
+642247,80617,Digital Scale,Service,2023-12-14,2023-12-18,Resolved,4.0
+868891,68414,Fitness Tracker,Product Quality,2024-08-11,2024-08-21,Resolved,10.0
+896381,86454,Insurance Plan,Service,2023-11-07,2023-12-05,Resolved,28.0
+658625,81395,Weight Loss Program,Technical Support,2024-06-12,2024-06-22,Resolved,10.0
+781504,44772,Home Security System,Service,2024-06-28,,Unresolved,
+882308,79498,Drone Delivery Service,Service,2024-01-09,,Unresolved,
+617767,62940,Fitness Tracker,Service,2024-05-27,,Unresolved,
+119372,65347,Fitness Tracker,Delivery,2024-01-10,2024-02-07,Resolved,28.0
+857182,38803,Drone Delivery Service,Technical Support,2023-12-09,2023-12-12,Resolved,3.0
+546506,18737,Personal Safe,Service,2023-12-16,2024-01-13,Resolved,28.0
+453452,66546,Home Security System,Technical Support,2024-03-30,2024-04-15,Resolved,16.0
+450050,53993,Mobile Banking App,Delivery,2023-09-13,,Unresolved,
+577369,31905,Insurance Plan,Technical Support,2023-09-30,2023-10-03,Resolved,3.0
+962050,68712,Drone Delivery Service,Technical Support,2024-04-02,2024-05-02,Resolved,30.0
+612969,92844,Home Security System,Product Quality,2023-09-10,,Unresolved,
+138805,11907,Personal Safe,Billing,2024-04-27,2024-05-08,Resolved,11.0
+836576,15618,Mobile Banking App,Product Quality,2024-04-22,2024-05-13,Resolved,21.0
+559546,62996,Insurance Plan,Service,2024-06-28,2024-07-07,Resolved,9.0
+139396,28604,Drone Delivery Service,Technical Support,2023-10-03,2023-10-11,Resolved,8.0
+161384,16128,Drone Delivery Service,Product Quality,2023-11-16,2023-11-23,Resolved,7.0
+657265,85710,Digital Scale,Billing,2023-10-07,2023-11-03,Resolved,27.0
+605228,18920,Weight Loss Program,Technical Support,2024-01-12,2024-01-24,Resolved,12.0
+150546,12762,Insurance Plan,Technical Support,2024-03-30,2024-04-11,Resolved,12.0
+925349,98523,Mobile Banking App,Delivery,2023-11-19,2023-12-16,Resolved,27.0
+143014,26000,Weight Loss Program,Billing,2024-06-09,2024-06-24,Resolved,15.0
+170479,53496,Home Security System,Delivery,2024-01-03,2024-01-23,Resolved,20.0
+104266,77521,Personal Safe,Billing,2023-09-02,2023-09-20,Resolved,18.0
+300785,89293,Home Security System,Service,2024-04-24,2024-05-02,Resolved,8.0
+183285,12896,Home Security System,Service,2024-08-07,,Unresolved,
+214134,47873,Insurance Plan,Delivery,2024-01-17,2024-02-13,Resolved,27.0
+746234,72393,Mobile Banking App,Billing,2023-12-16,2023-12-17,Resolved,1.0
+664694,83773,Weight Loss Program,Delivery,2024-05-02,2024-05-20,Resolved,18.0
+252599,12905,Digital Scale,Delivery,2024-01-06,2024-01-08,Resolved,2.0
+125123,30569,Drone Delivery Service,Service,2024-05-06,2024-05-12,Resolved,6.0
+271758,69433,Weight Loss Program,Delivery,2024-07-10,2024-07-29,Resolved,19.0
+176853,59840,Mobile Banking App,Technical Support,2024-07-02,2024-07-15,Resolved,13.0
+699947,44178,Customer Support Service,Technical Support,2024-08-02,2024-08-09,Resolved,7.0
+678523,87500,Mobile Banking App,Delivery,2023-12-06,,Unresolved,
+887458,32706,Drone Delivery Service,Billing,2024-02-16,2024-02-28,Resolved,12.0
+364236,12661,Drone Delivery Service,Billing,2024-04-07,2024-04-14,Resolved,7.0
+628934,58515,Digital Scale,Service,2023-10-24,2023-11-15,Resolved,22.0
+417671,78431,Drone Delivery Service,Delivery,2023-11-26,,Unresolved,
+391080,92186,Mobile Banking App,Technical Support,2024-07-06,2024-07-10,Resolved,4.0
+810917,82502,Cloud Storage,Product Quality,2024-06-08,2024-06-09,Resolved,1.0
+112408,32928,Drone Delivery Service,Service,2023-09-27,,Unresolved,
+214732,11823,Customer Support Service,Product Quality,2024-06-01,2024-06-02,Resolved,1.0
+347358,58106,Drone Delivery Service,Billing,2024-01-25,2024-02-19,Resolved,25.0
+583478,87256,Customer Support Service,Billing,2023-12-15,2023-12-18,Resolved,3.0
+161264,57564,Drone Delivery Service,Service,2024-07-13,2024-07-19,Resolved,6.0
+410498,75928,Digital Scale,Billing,2024-08-01,2024-08-25,Resolved,24.0
+479524,75312,Digital Scale,Service,2023-09-20,2023-10-19,Resolved,29.0
+894423,77788,Weight Loss Program,Service,2024-05-14,2024-05-18,Resolved,4.0
+987452,92435,Digital Scale,Product Quality,2023-09-17,2023-09-29,Resolved,12.0
+994876,34356,Personal Safe,Technical Support,2024-03-28,2024-04-02,Resolved,5.0
+995257,55780,Personal Safe,Delivery,2023-10-02,2023-10-07,Resolved,5.0
+780053,85077,Weight Loss Program,Delivery,2023-09-08,2023-09-10,Resolved,2.0
+595389,71057,Personal Safe,Delivery,2023-11-14,2023-11-30,Resolved,16.0
+692036,86617,Digital Scale,Service,2024-02-22,2024-03-01,Resolved,8.0
+932135,88323,Customer Support Service,Billing,2024-07-29,2024-08-01,Resolved,3.0
+333376,45297,Customer Support Service,Service,2024-06-15,2024-06-30,Resolved,15.0
+556422,82850,Drone Delivery Service,Technical Support,2024-04-27,,Unresolved,
+676955,87631,Cloud Storage,Product Quality,2023-12-08,2023-12-11,Resolved,3.0
+269543,33840,Digital Scale,Billing,2024-02-06,2024-02-26,Resolved,20.0
+812714,26560,Drone Delivery Service,Service,2024-05-30,2024-06-11,Resolved,12.0
+952176,93400,Weight Loss Program,Delivery,2024-03-14,2024-03-28,Resolved,14.0
+978148,67236,Insurance Plan,Billing,2024-02-16,2024-03-09,Resolved,22.0
+927730,55043,Mobile Banking App,Product Quality,2024-01-17,,Unresolved,
+883210,24968,Drone Delivery Service,Service,2024-07-15,2024-08-03,Resolved,19.0
+374939,11233,Fitness Tracker,Product Quality,2024-03-27,2024-04-18,Resolved,22.0
+800657,22568,Insurance Plan,Technical Support,2023-10-28,2023-11-03,Resolved,6.0
+710548,86389,Customer Support Service,Technical Support,2023-10-09,2023-10-13,Resolved,4.0
+328272,68450,Fitness Tracker,Technical Support,2024-04-13,2024-05-07,Resolved,24.0
+784335,84322,Weight Loss Program,Product Quality,2024-08-11,,Unresolved,
+913991,85278,Fitness Tracker,Service,2024-02-01,2024-02-14,Resolved,13.0
+341088,46747,Customer Support Service,Delivery,2023-10-14,2023-10-24,Resolved,10.0
+687616,26815,Mobile Banking App,Billing,2024-07-29,2024-08-26,Resolved,28.0
+425195,56912,Mobile Banking App,Technical Support,2024-06-15,,Unresolved,
+307434,97303,Drone Delivery Service,Product Quality,2024-05-08,2024-05-22,Resolved,14.0
+541577,71597,Digital Scale,Product Quality,2024-01-10,,Unresolved,
+471066,27275,Fitness Tracker,Product Quality,2024-05-25,2024-05-27,Resolved,2.0
+817709,49997,Drone Delivery Service,Product Quality,2024-04-01,2024-04-17,Resolved,16.0
+429894,63909,Personal Safe,Billing,2024-06-07,2024-06-26,Resolved,19.0
+434883,50219,Customer Support Service,Service,2024-04-11,2024-05-04,Resolved,23.0
+837847,81243,Drone Delivery Service,Delivery,2024-06-27,2024-07-22,Resolved,25.0
+461668,62868,Fitness Tracker,Technical Support,2024-01-05,,Unresolved,
+749301,68856,Cloud Storage,Product Quality,2024-02-02,2024-02-22,Resolved,20.0
+879800,71819,Mobile Banking App,Service,2024-01-30,2024-02-11,Resolved,12.0
+860141,94682,Home Security System,Billing,2024-02-22,2024-03-12,Resolved,19.0
+797083,77763,Weight Loss Program,Product Quality,2024-03-07,2024-03-09,Resolved,2.0
+250059,16324,Weight Loss Program,Billing,2024-06-08,2024-06-28,Resolved,20.0
+505325,80596,Customer Support Service,Service,2023-09-10,2023-09-26,Resolved,16.0
+992144,82545,Insurance Plan,Service,2024-01-15,2024-02-02,Resolved,18.0
+579998,55573,Drone Delivery Service,Billing,2023-09-16,2023-09-24,Resolved,8.0
+224912,13321,Insurance Plan,Service,2023-09-09,2023-10-05,Resolved,26.0
+703767,22494,Cloud Storage,Technical Support,2023-12-11,2023-12-28,Resolved,17.0
+506946,62223,Insurance Plan,Product Quality,2024-07-03,2024-07-30,Resolved,27.0
+545167,54629,Insurance Plan,Product Quality,2024-02-26,2024-03-13,Resolved,16.0
+253269,32195,Drone Delivery Service,Billing,2023-09-30,2023-10-12,Resolved,12.0
+303414,69529,Mobile Banking App,Product Quality,2023-10-05,,Unresolved,
+921961,69522,Cloud Storage,Delivery,2024-02-21,2024-03-17,Resolved,25.0
+460292,85990,Mobile Banking App,Billing,2024-02-13,2024-02-16,Resolved,3.0
+765846,88322,Home Security System,Technical Support,2024-05-10,2024-05-15,Resolved,5.0
+531284,60165,Digital Scale,Technical Support,2024-01-11,2024-02-08,Resolved,28.0
+898227,31431,Weight Loss Program,Delivery,2024-03-29,,Unresolved,
+246196,85130,Mobile Banking App,Billing,2024-05-17,2024-06-01,Resolved,15.0
+789020,40590,Weight Loss Program,Product Quality,2024-01-05,2024-01-29,Resolved,24.0
+851126,13878,Customer Support Service,Delivery,2024-01-18,,Unresolved,
+657669,61680,Weight Loss Program,Delivery,2024-05-16,2024-06-06,Resolved,21.0
+620704,29532,Customer Support Service,Product Quality,2024-03-04,,Unresolved,
+734566,50673,Home Security System,Delivery,2024-02-26,2024-03-12,Resolved,15.0
+744298,56715,Insurance Plan,Product Quality,2024-05-26,2024-06-04,Resolved,9.0
+504364,89774,Drone Delivery Service,Delivery,2023-08-30,2023-09-04,Resolved,5.0
+154785,61672,Cloud Storage,Technical Support,2024-03-26,,Unresolved,
+781693,14476,Drone Delivery Service,Product Quality,2024-03-08,2024-04-03,Resolved,26.0
+878041,40917,Digital Scale,Service,2024-02-03,2024-03-03,Resolved,29.0
+897829,82160,Cloud Storage,Billing,2024-03-27,2024-04-23,Resolved,27.0
+826365,17578,Fitness Tracker,Billing,2024-01-10,2024-01-24,Resolved,14.0
+680133,20872,Digital Scale,Delivery,2023-11-02,2023-11-27,Resolved,25.0
+195545,68302,Home Security System,Product Quality,2024-08-09,2024-08-15,Resolved,6.0
+816272,31179,Insurance Plan,Technical Support,2023-10-14,2023-11-09,Resolved,26.0
+641745,90250,Digital Scale,Billing,2023-10-02,2023-10-17,Resolved,15.0
+995280,46413,Mobile Banking App,Delivery,2024-07-14,2024-07-16,Resolved,2.0
+955311,33716,Cloud Storage,Technical Support,2024-02-15,2024-02-28,Resolved,13.0
+879717,45211,Weight Loss Program,Product Quality,2023-10-12,2023-11-10,Resolved,29.0
+215712,63033,Fitness Tracker,Billing,2024-02-15,2024-03-08,Resolved,22.0
+916312,49883,Insurance Plan,Delivery,2023-12-28,2024-01-10,Resolved,13.0
+902812,92332,Insurance Plan,Product Quality,2024-07-19,2024-07-24,Resolved,5.0
+130762,92516,Digital Scale,Product Quality,2024-07-12,2024-08-02,Resolved,21.0
+387277,72322,Personal Safe,Billing,2024-07-18,2024-07-31,Resolved,13.0
+845476,83506,Personal Safe,Billing,2023-11-21,2023-11-23,Resolved,2.0
+780379,13131,Home Security System,Technical Support,2024-05-23,,Unresolved,
+957017,40857,Insurance Plan,Billing,2024-05-30,2024-06-10,Resolved,11.0
+381457,46647,Personal Safe,Billing,2023-09-09,2023-09-16,Resolved,7.0
+705401,96178,Weight Loss Program,Service,2023-11-17,2023-11-20,Resolved,3.0
+576694,77130,Weight Loss Program,Service,2024-03-12,2024-03-30,Resolved,18.0
+376805,69967,Customer Support Service,Technical Support,2024-06-01,2024-06-06,Resolved,5.0
+942579,54627,Customer Support Service,Billing,2024-07-15,2024-07-18,Resolved,3.0
+417404,81921,Drone Delivery Service,Delivery,2024-06-04,2024-06-23,Resolved,19.0
+422702,90278,Personal Safe,Product Quality,2024-08-24,,Unresolved,
+269820,17291,Home Security System,Service,2023-10-13,2023-10-27,Resolved,14.0
+430399,72372,Customer Support Service,Delivery,2024-04-26,2024-05-13,Resolved,17.0
+812303,89533,Home Security System,Service,2024-03-27,2024-04-01,Resolved,5.0
+595063,46100,Mobile Banking App,Product Quality,2024-03-14,,Unresolved,
+687454,85722,Drone Delivery Service,Product Quality,2024-02-03,2024-03-01,Resolved,27.0
+988521,44802,Home Security System,Delivery,2024-04-03,2024-04-16,Resolved,13.0
+314627,83460,Digital Scale,Service,2024-06-21,2024-07-10,Resolved,19.0
+518389,52421,Customer Support Service,Delivery,2024-01-18,2024-01-30,Resolved,12.0
+999585,90615,Home Security System,Delivery,2024-04-02,2024-04-07,Resolved,5.0
+595825,77055,Digital Scale,Delivery,2024-08-12,2024-08-14,Resolved,2.0
+906607,33470,Home Security System,Product Quality,2024-02-01,2024-02-15,Resolved,14.0
+978490,80007,Personal Safe,Billing,2023-12-08,2023-12-21,Resolved,13.0
+394007,97686,Personal Safe,Product Quality,2023-10-20,2023-11-03,Resolved,14.0
+415244,96628,Home Security System,Delivery,2024-04-13,2024-04-18,Resolved,5.0
+278863,10490,Drone Delivery Service,Technical Support,2024-01-14,2024-02-09,Resolved,26.0
+303315,38588,Personal Safe,Billing,2024-05-12,2024-06-11,Resolved,30.0
+615182,35708,Fitness Tracker,Service,2023-10-28,,Unresolved,
+477050,22102,Digital Scale,Billing,2024-01-07,2024-01-09,Resolved,2.0
+104883,19904,Mobile Banking App,Delivery,2023-09-17,2023-10-03,Resolved,16.0
+852526,60142,Cloud Storage,Billing,2023-11-15,,Unresolved,
+596677,62287,Mobile Banking App,Technical Support,2024-07-20,2024-08-04,Resolved,15.0
+211300,11560,Home Security System,Delivery,2024-05-18,2024-05-20,Resolved,2.0
+999639,14932,Mobile Banking App,Billing,2024-08-26,2024-09-01,Resolved,6.0
+932801,82755,Insurance Plan,Billing,2023-11-05,2023-11-13,Resolved,8.0
+208741,73653,Fitness Tracker,Billing,2023-11-05,,Unresolved,
+678430,95515,Weight Loss Program,Delivery,2024-02-21,2024-02-24,Resolved,3.0
+625734,88080,Insurance Plan,Delivery,2023-09-08,2023-10-07,Resolved,29.0
+491411,16284,Insurance Plan,Technical Support,2023-09-14,2023-09-23,Resolved,9.0
+532762,16495,Weight Loss Program,Technical Support,2024-06-05,2024-06-19,Resolved,14.0
+244783,84067,Drone Delivery Service,Technical Support,2024-03-17,2024-03-24,Resolved,7.0
+183437,83647,Mobile Banking App,Delivery,2024-04-11,2024-04-29,Resolved,18.0
+311792,29640,Drone Delivery Service,Delivery,2024-04-30,2024-05-20,Resolved,20.0
+301723,68164,Weight Loss Program,Service,2024-01-08,2024-01-17,Resolved,9.0
+305616,81195,Drone Delivery Service,Product Quality,2023-11-08,2023-12-02,Resolved,24.0
+805981,31706,Fitness Tracker,Delivery,2023-10-14,2023-11-13,Resolved,30.0
+241475,67228,Personal Safe,Technical Support,2024-03-13,2024-04-07,Resolved,25.0
+400775,86619,Digital Scale,Service,2024-03-20,,Unresolved,
+750813,59155,Cloud Storage,Product Quality,2023-12-18,2024-01-16,Resolved,29.0
+339672,49730,Fitness Tracker,Product Quality,2024-08-24,,Unresolved,
+326057,78985,Insurance Plan,Billing,2024-02-29,2024-03-25,Resolved,25.0
+575729,55085,Personal Safe,Technical Support,2024-06-25,,Unresolved,
+571275,63573,Customer Support Service,Product Quality,2023-09-28,2023-10-10,Resolved,12.0
+484814,75300,Personal Safe,Billing,2024-08-06,2024-08-12,Resolved,6.0
+572493,44489,Home Security System,Technical Support,2024-06-16,2024-07-11,Resolved,25.0
+587065,48246,Weight Loss Program,Technical Support,2023-09-08,2023-10-08,Resolved,30.0
+178233,56030,Home Security System,Delivery,2024-05-06,2024-06-02,Resolved,27.0
+936676,50506,Home Security System,Technical Support,2024-05-05,2024-05-24,Resolved,19.0
+611102,77486,Weight Loss Program,Technical Support,2024-08-09,2024-08-22,Resolved,13.0
+372880,35014,Mobile Banking App,Service,2024-04-17,,Unresolved,
+563329,39296,Insurance Plan,Service,2024-02-15,2024-02-19,Resolved,4.0
+955057,52916,Home Security System,Billing,2024-06-07,2024-06-25,Resolved,18.0
+602742,72073,Drone Delivery Service,Delivery,2023-10-28,,Unresolved,
+634531,10082,Personal Safe,Service,2024-07-03,,Unresolved,
+105588,96648,Digital Scale,Product Quality,2024-05-29,2024-06-01,Resolved,3.0
+588403,37328,Fitness Tracker,Delivery,2024-04-23,2024-05-02,Resolved,9.0
+311309,56430,Customer Support Service,Delivery,2024-03-12,2024-03-16,Resolved,4.0
+365246,49987,Fitness Tracker,Delivery,2023-12-16,2023-12-25,Resolved,9.0
+560435,35956,Digital Scale,Delivery,2024-08-25,,Unresolved,
+740155,36603,Insurance Plan,Technical Support,2023-09-24,2023-10-01,Resolved,7.0
+103503,96960,Cloud Storage,Service,2024-02-09,2024-02-10,Resolved,1.0
+205372,91151,Drone Delivery Service,Service,2023-12-14,2023-12-25,Resolved,11.0
+566785,66986,Cloud Storage,Billing,2024-08-06,2024-08-24,Resolved,18.0
+334410,49373,Customer Support Service,Product Quality,2023-11-19,2023-12-19,Resolved,30.0
+790926,70308,Cloud Storage,Product Quality,2024-08-04,,Unresolved,
+755821,57135,Drone Delivery Service,Service,2024-02-05,,Unresolved,
+575411,57845,Personal Safe,Service,2024-07-06,2024-07-11,Resolved,5.0
+425382,83618,Mobile Banking App,Technical Support,2023-12-28,,Unresolved,
+579815,36712,Digital Scale,Product Quality,2024-03-16,2024-04-12,Resolved,27.0
+753087,20480,Mobile Banking App,Service,2023-12-22,2024-01-21,Resolved,30.0
+347309,37301,Personal Safe,Billing,2023-10-17,2023-11-11,Resolved,25.0
+543309,42215,Insurance Plan,Service,2024-02-17,2024-03-15,Resolved,27.0
+313111,53311,Cloud Storage,Service,2024-03-07,2024-03-13,Resolved,6.0
+522602,87359,Home Security System,Billing,2023-12-15,2024-01-07,Resolved,23.0
+518763,83520,Insurance Plan,Product Quality,2024-03-11,2024-03-16,Resolved,5.0
+439232,99461,Insurance Plan,Service,2024-03-16,,Unresolved,
+319789,13481,Home Security System,Delivery,2024-08-25,2024-08-29,Resolved,4.0
+122838,71840,Digital Scale,Product Quality,2024-01-16,2024-02-15,Resolved,30.0
+742496,36294,Digital Scale,Product Quality,2023-09-30,2023-10-14,Resolved,14.0
+222453,97083,Weight Loss Program,Product Quality,2023-09-07,2023-09-28,Resolved,21.0
+161348,65287,Home Security System,Service,2024-02-11,2024-02-29,Resolved,18.0
+822011,86178,Digital Scale,Product Quality,2024-03-03,2024-03-26,Resolved,23.0
+636376,93337,Mobile Banking App,Product Quality,2024-05-14,2024-06-13,Resolved,30.0
+147306,71219,Cloud Storage,Technical Support,2024-06-19,2024-07-11,Resolved,22.0
+350727,96004,Cloud Storage,Technical Support,2024-05-06,2024-06-01,Resolved,26.0
+155471,30663,Insurance Plan,Delivery,2023-09-19,2023-10-01,Resolved,12.0
+631393,45447,Cloud Storage,Service,2023-09-23,2023-10-12,Resolved,19.0
+301577,91444,Drone Delivery Service,Service,2024-08-06,2024-08-19,Resolved,13.0
+311623,13415,Digital Scale,Delivery,2023-12-17,2023-12-27,Resolved,10.0
+228991,29444,Home Security System,Billing,2024-01-18,2024-01-19,Resolved,1.0
+817497,14832,Mobile Banking App,Technical Support,2023-09-01,2023-09-28,Resolved,27.0
+689391,46179,Customer Support Service,Delivery,2024-01-16,2024-01-19,Resolved,3.0
+325904,80514,Digital Scale,Billing,2024-07-17,2024-07-19,Resolved,2.0
+904107,41049,Digital Scale,Billing,2024-01-01,2024-01-04,Resolved,3.0
+319685,26043,Customer Support Service,Delivery,2024-04-02,2024-05-02,Resolved,30.0
+703967,89245,Drone Delivery Service,Service,2023-11-18,2023-11-24,Resolved,6.0
+511274,31482,Fitness Tracker,Delivery,2023-12-15,2023-12-27,Resolved,12.0
+730880,44546,Mobile Banking App,Technical Support,2024-08-12,2024-09-03,Resolved,22.0
+580076,93359,Home Security System,Billing,2023-12-16,,Unresolved,
+817312,52432,Mobile Banking App,Technical Support,2024-03-25,2024-04-05,Resolved,11.0
+838215,22247,Mobile Banking App,Product Quality,2024-05-02,2024-05-25,Resolved,23.0
+818663,86370,Home Security System,Service,2024-03-27,2024-04-24,Resolved,28.0
+282902,17385,Personal Safe,Technical Support,2023-08-29,2023-09-25,Resolved,27.0
+219710,43032,Insurance Plan,Product Quality,2024-03-25,2024-03-28,Resolved,3.0
+940511,61884,Home Security System,Product Quality,2023-12-01,,Unresolved,
+712724,16930,Mobile Banking App,Billing,2024-05-12,2024-06-01,Resolved,20.0
+544570,31682,Customer Support Service,Service,2023-11-13,2023-12-04,Resolved,21.0
+934380,14115,Weight Loss Program,Service,2024-04-02,2024-04-10,Resolved,8.0
+569755,85795,Cloud Storage,Product Quality,2024-03-27,2024-04-12,Resolved,16.0
+962695,84552,Weight Loss Program,Technical Support,2024-04-28,,Unresolved,
+419029,53598,Customer Support Service,Service,2023-08-31,2023-09-05,Resolved,5.0
+820615,91761,Fitness Tracker,Delivery,2023-09-30,2023-10-01,Resolved,1.0
+564112,74656,Weight Loss Program,Billing,2023-11-04,2023-11-19,Resolved,15.0
+992486,70755,Customer Support Service,Billing,2023-09-27,2023-10-27,Resolved,30.0
+457466,14366,Mobile Banking App,Technical Support,2024-07-19,2024-08-01,Resolved,13.0
+142691,42209,Weight Loss Program,Technical Support,2024-05-12,,Unresolved,
+902175,15204,Mobile Banking App,Service,2024-08-18,2024-08-25,Resolved,7.0
+967468,49420,Drone Delivery Service,Technical Support,2023-12-05,2023-12-29,Resolved,24.0
+595876,58405,Digital Scale,Product Quality,2023-09-12,,Unresolved,
+271007,18784,Insurance Plan,Delivery,2024-07-13,,Unresolved,
+725472,89827,Weight Loss Program,Service,2024-08-26,2024-08-27,Resolved,1.0
+962670,51612,Mobile Banking App,Billing,2023-09-16,2023-09-27,Resolved,11.0
+275614,12549,Home Security System,Billing,2024-02-27,2024-03-23,Resolved,25.0
+325498,18185,Fitness Tracker,Product Quality,2023-11-04,2023-11-22,Resolved,18.0
+713468,70546,Insurance Plan,Delivery,2024-07-05,2024-07-21,Resolved,16.0
+148527,86260,Fitness Tracker,Service,2024-01-13,,Unresolved,
+290977,60012,Drone Delivery Service,Billing,2023-10-07,2023-11-05,Resolved,29.0
+277322,78904,Cloud Storage,Service,2024-05-14,,Unresolved,
+260520,74835,Insurance Plan,Product Quality,2024-06-07,2024-06-12,Resolved,5.0
+684058,77385,Insurance Plan,Service,2024-04-20,2024-04-26,Resolved,6.0
+491629,26652,Weight Loss Program,Billing,2024-03-10,2024-03-18,Resolved,8.0
+305141,46631,Mobile Banking App,Billing,2023-09-18,2023-09-27,Resolved,9.0
+513529,66497,Personal Safe,Technical Support,2024-05-15,2024-05-22,Resolved,7.0
+565807,59220,Personal Safe,Product Quality,2024-04-12,2024-05-12,Resolved,30.0
+458229,92850,Digital Scale,Product Quality,2024-04-18,2024-05-09,Resolved,21.0
+385200,85881,Insurance Plan,Billing,2024-08-13,,Unresolved,
+841515,91592,Insurance Plan,Service,2024-08-20,2024-09-11,Resolved,22.0
+781645,33200,Mobile Banking App,Service,2023-10-28,2023-11-02,Resolved,5.0
+821464,18330,Cloud Storage,Product Quality,2024-03-24,,Unresolved,
+269535,10178,Fitness Tracker,Service,2023-12-28,2023-12-31,Resolved,3.0
+443941,11888,Weight Loss Program,Billing,2024-03-07,2024-03-16,Resolved,9.0
+226074,65656,Cloud Storage,Delivery,2024-03-12,2024-03-19,Resolved,7.0
+471702,24920,Customer Support Service,Service,2023-10-22,2023-10-28,Resolved,6.0
+905099,81307,Personal Safe,Delivery,2023-12-30,,Unresolved,
+444109,15680,Home Security System,Product Quality,2024-07-13,2024-08-07,Resolved,25.0
+757789,52622,Digital Scale,Technical Support,2024-05-28,2024-06-21,Resolved,24.0
+220619,30702,Weight Loss Program,Service,2024-06-07,2024-06-11,Resolved,4.0
+267146,29865,Personal Safe,Product Quality,2024-05-20,2024-06-02,Resolved,13.0
+160346,47105,Customer Support Service,Product Quality,2024-04-23,2024-05-13,Resolved,20.0
+790564,29216,Fitness Tracker,Product Quality,2024-01-26,,Unresolved,
+489898,83016,Customer Support Service,Product Quality,2024-08-04,2024-08-22,Resolved,18.0
+681949,62682,Insurance Plan,Service,2023-10-19,2023-11-10,Resolved,22.0
+324440,61658,Fitness Tracker,Service,2024-04-24,2024-05-17,Resolved,23.0
+410611,92668,Personal Safe,Billing,2023-11-17,2023-12-02,Resolved,15.0
+990508,30665,Customer Support Service,Technical Support,2024-03-09,2024-03-30,Resolved,21.0
+325844,95983,Fitness Tracker,Product Quality,2024-01-11,,Unresolved,
+631712,95282,Customer Support Service,Product Quality,2024-01-04,2024-01-10,Resolved,6.0
+999689,66595,Mobile Banking App,Billing,2024-07-20,2024-08-02,Resolved,13.0
+651883,12420,Digital Scale,Delivery,2024-01-22,2024-02-12,Resolved,21.0
+975761,61307,Home Security System,Billing,2024-06-11,2024-06-14,Resolved,3.0
+627261,67624,Fitness Tracker,Technical Support,2023-12-30,2024-01-29,Resolved,30.0
+965081,38343,Fitness Tracker,Delivery,2023-10-04,2023-10-22,Resolved,18.0
+437435,33280,Insurance Plan,Billing,2024-03-29,,Unresolved,
+288540,96561,Fitness Tracker,Billing,2024-02-15,2024-02-28,Resolved,13.0
+288802,52696,Fitness Tracker,Service,2023-10-31,,Unresolved,
+444882,21782,Customer Support Service,Service,2024-01-06,2024-01-24,Resolved,18.0
+220920,96458,Home Security System,Product Quality,2023-09-16,,Unresolved,
+990643,36753,Personal Safe,Service,2024-06-10,2024-06-28,Resolved,18.0
+529855,33090,Home Security System,Product Quality,2023-12-08,,Unresolved,
+103490,82861,Fitness Tracker,Billing,2024-04-22,2024-04-26,Resolved,4.0
+859015,59318,Home Security System,Product Quality,2024-07-12,2024-07-16,Resolved,4.0
+315186,88567,Cloud Storage,Service,2024-02-15,2024-02-17,Resolved,2.0
+262822,21741,Weight Loss Program,Service,2024-06-28,2024-07-16,Resolved,18.0
+929454,23214,Mobile Banking App,Technical Support,2024-02-24,2024-02-26,Resolved,2.0
+545827,25134,Drone Delivery Service,Product Quality,2024-01-06,2024-01-26,Resolved,20.0
+848191,14531,Insurance Plan,Technical Support,2023-10-12,,Unresolved,
+167262,84588,Drone Delivery Service,Service,2024-06-13,,Unresolved,
+193220,42544,Customer Support Service,Service,2023-09-08,2023-10-04,Resolved,26.0
+811013,44928,Drone Delivery Service,Service,2024-03-09,2024-03-16,Resolved,7.0
+164441,59374,Personal Safe,Delivery,2023-10-09,2023-10-24,Resolved,15.0
+239612,35783,Fitness Tracker,Delivery,2024-01-02,2024-01-29,Resolved,27.0
+110662,80074,Drone Delivery Service,Service,2024-07-17,2024-08-04,Resolved,18.0
+229659,13168,Home Security System,Technical Support,2024-02-28,2024-03-12,Resolved,13.0
+567083,25020,Cloud Storage,Service,2024-04-02,2024-04-10,Resolved,8.0
+944258,35358,Mobile Banking App,Technical Support,2023-11-14,2023-11-27,Resolved,13.0
+634248,59214,Insurance Plan,Technical Support,2024-08-07,2024-09-03,Resolved,27.0
+404895,53433,Digital Scale,Technical Support,2024-01-18,2024-01-28,Resolved,10.0
+292947,78340,Customer Support Service,Billing,2024-02-08,,Unresolved,
+359986,41152,Drone Delivery Service,Delivery,2024-07-18,,Unresolved,
+177708,94631,Home Security System,Product Quality,2023-11-24,2023-12-17,Resolved,23.0
+319197,95335,Fitness Tracker,Technical Support,2023-12-18,,Unresolved,
+258488,94681,Cloud Storage,Billing,2023-11-21,2023-12-02,Resolved,11.0
+423899,82340,Home Security System,Service,2023-11-06,2023-11-19,Resolved,13.0
+404131,61462,Digital Scale,Product Quality,2024-08-07,2024-08-31,Resolved,24.0
+454397,68387,Personal Safe,Service,2024-07-08,2024-07-18,Resolved,10.0
+563050,65491,Digital Scale,Delivery,2023-12-18,2024-01-11,Resolved,24.0
+332638,98056,Weight Loss Program,Billing,2024-03-07,2024-03-17,Resolved,10.0
+761773,51168,Mobile Banking App,Product Quality,2024-07-25,2024-08-10,Resolved,16.0
+745638,49499,Fitness Tracker,Service,2024-07-06,2024-07-11,Resolved,5.0
+862699,93524,Weight Loss Program,Delivery,2024-03-22,2024-04-19,Resolved,28.0
+836143,51827,Fitness Tracker,Product Quality,2024-05-24,2024-05-25,Resolved,1.0
+137336,25116,Fitness Tracker,Service,2023-10-19,,Unresolved,
+166161,34224,Personal Safe,Billing,2023-10-04,,Unresolved,
+456848,52222,Mobile Banking App,Technical Support,2023-09-21,2023-10-13,Resolved,22.0
+262882,66963,Home Security System,Service,2024-05-15,2024-06-09,Resolved,25.0
+724811,23041,Fitness Tracker,Delivery,2024-05-31,2024-06-28,Resolved,28.0
+242915,96571,Home Security System,Technical Support,2024-03-26,2024-04-01,Resolved,6.0
+579434,36484,Home Security System,Product Quality,2023-09-13,2023-09-16,Resolved,3.0
+776381,87956,Digital Scale,Service,2024-04-29,2024-05-04,Resolved,5.0
+861920,61749,Home Security System,Delivery,2024-05-18,2024-05-28,Resolved,10.0
+412208,86468,Digital Scale,Technical Support,2023-11-14,2023-11-18,Resolved,4.0
+846539,12865,Cloud Storage,Billing,2024-07-23,2024-07-25,Resolved,2.0
